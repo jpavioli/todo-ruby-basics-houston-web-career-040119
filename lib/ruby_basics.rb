@@ -11,7 +11,7 @@ def argue(argument)
 end
 
 def greeting(greeting_var,name)
-
+  "#{greeting_var}, this doesn't need to be here, #{name}... but here is somethign anyway"
 end
 
 def return_a_value
